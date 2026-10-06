@@ -1,0 +1,23 @@
+CURSO COMPLETO — GOOGLE AI STUDIO
+
+119 clases y 113 referencias a videos de YouTube.
+Contiene explicaciones, recursos originales, enlaces de respaldo Dropbox,
+copias editables Canva, imágenes y vistas previas de documentos.
+
+IMPORTACIÓN
+1. En Google AI Studio abre Build / New app y crea un proyecto básico.
+2. En Code abre el menú + del explorador de archivos y Upload Zip file.
+3. Importa este ZIP. Si ya existen archivos con los mismos nombres, AI Studio
+   puede añadir un sufijo: asegúrate de usar los index.html, package.json y
+   vite.config.ts de este paquete como archivos principales.
+4. Ejecuta npm install y npm run dev en el entorno del proyecto.
+
+INSTRUCCIÓN PARA GEMINI
+Usa íntegro el index.html importado. Es un curso HTML estático con sus datos
+ya incorporados. No reconstruyas, resumas ni vuelvas a generar las clases.
+Conserva las 119 clases, 113 referencias YouTube, textos, recursos e imágenes.
+Arranca la vista previa con Vite; no requiere Gemini API.
+
+También puedes abrir curso_completo.html directamente en tu navegador.
+Los videos requieren conexión y su disponibilidad depende de YouTube.
+La reproducción de todos los videos en AI Studio sigue pendiente de verificar.
